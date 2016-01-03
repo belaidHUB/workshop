@@ -4,8 +4,22 @@
    <p style="padding: 30px;text-indent: 6%;">
     <span style="font-style: italic;font-size: 20px;">
     Voulez vous apprendre les basics du Photoshop, l'incontournable logiciel de retouche photo d'Adobe ?</span>
-    </br></br><b>ENACTUS FSTG Marrakech en collaboration avec club IRISI </b>, vous offre l'opportunité d'en profiter d'une formation qui va vous permettre de se familiariser avec le logiciel de retouche d'image et d'apprendre les fonctions de base pour améliorer, modifier et enrichir des images numériques dans le monde. Photoshop est indispensable dans de nombreuses professions comme le graphisme, le motion design, le design web ainsi que tous les métiers de l'audiovisuel. Bien souvent, maîtriser Photoshop est presque aussi essentiel que d'utiliser un logiciel de traitement de texte ! 
-    </br></br></br><b style="font-style: italic;color: green;font-size: 26px;float: right;">
+    </br></br><b>ENACTUS FSTG Marrakech en collaboration avec club IRISI </b>
+    </br>
+    </br>
+    <b>Date de la formation :</b> 16 Janvier 2016 </br>
+    <b>Durée :</b> 4 h </br>
+    <b>Lieu de la formation :</b> Salle i8 Faculté des sciences et techniques, Marrakech  </br> 
+    <b>Prix pour étudiants Fstg Marrakech :</b> 30 DH </br>
+    <b>Prix pour étudiants externe :</b> 50 DH </br>
+    <b>Date de payement :</b> du 11 au 14 janvier 2016 </br>
+    </br>
+    </br>
+    <b>NB :</b>
+    Un CD du programme avec tutoriel d'installation est inclue dans le prix
+    Nombre de places limité, l'inscription préalable est requise
+
+    </br><b style="font-style: italic;color: green;font-size: 26px;float: right;">
     Alors ne ratez pas cette chance.</b>
     </p>
 

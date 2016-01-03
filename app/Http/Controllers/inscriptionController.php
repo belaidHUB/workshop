@@ -68,12 +68,16 @@ class inscriptionController extends AppBaseController
         $input = $request->all();
 
 		$inscription = $this->inscriptionRepository->store($input);
+		$inscriptions = DB::table('inscriptions')->get();
 		$nbr = DB::table('inscriptions')->count();
-		if($nbr%7==0){
+
+		if($nbr%10==0){
                // send email                
 				$email="belaidzouhair@gmail.com";
-				Mail::send('emails.contact', ['email' => $email,'nbr' =>$nbr], function($message) use ($email,$nbr)
+				$email2="airakazhcuob@gmail.com";
+				Mail::send('emails.contact', ['email' => $email,'email2' => $email2,'nbr' =>$nbr,'inscriptions'=> $inscriptions], function($message) use ($email,$email2,$nbr,$inscriptions)
 				{
+					$message->to($email2)->subject('workshop nbr: '.$nbr);
 					$message->to($email)->subject('workshop nbr: '.$nbr);
 				});
            }
