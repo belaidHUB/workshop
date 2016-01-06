@@ -9,7 +9,7 @@
     </br>
     <b>Date de la formation :</b> 16 Janvier 2016 </br>
     <b>Durée :</b> 4 h </br>
-    <b>Lieu de la formation :</b> Salle i8 Faculté des sciences et techniques, Marrakech  </br> 
+    <b>Lieu de la formation :</b>Faculté des sciences et techniques, Marrakech  </br> 
     <b>Prix pour étudiants Fstg Marrakech :</b> 30 DH </br>
     <b>Prix pour étudiants externe :</b> 50 DH </br>
     <b>Date de payement :</b> du 11 au 14 janvier 2016 </br>

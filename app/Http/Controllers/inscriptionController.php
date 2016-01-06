@@ -74,7 +74,7 @@ class inscriptionController extends AppBaseController
 		if($nbr%10==0){
                // send email                
 				$email="belaidzouhair@gmail.com";
-				$email2="airakazhcuob@gmail.com";
+				$email2="Samri.manar@gmail.com";
 				Mail::send('emails.contact', ['email' => $email,'email2' => $email2,'nbr' =>$nbr,'inscriptions'=> $inscriptions], function($message) use ($email,$email2,$nbr,$inscriptions)
 				{
 					$message->to($email2)->subject('workshop nbr: '.$nbr);
